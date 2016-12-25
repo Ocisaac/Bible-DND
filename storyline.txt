@@ -1,0 +1,16 @@
+Charecter:
+    One of the spies sent to Jeriho before it's counqering
+
+Side kick ?
+
+Paths:
+    (Tut) Get to Jeriho
+    Look around in the city
+      City Center:
+
+      Market:
+
+Stats:
+    Money
+    Health
+    Stamina
