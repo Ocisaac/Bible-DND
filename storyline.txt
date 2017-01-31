@@ -1,14 +1,27 @@
 Charecter:
-    One of the spies sent to Jeriho before it's counqering
-
+    Jackob
 Side kick ?
+Optional Opening:
+players thought:"It's so warm in here... wh where am i?"
+"what is this?" *grab*
+narrator:"Hey there lil guy you have just got out to the world"
+rebeca:"Oh he is so red lets call him.. eshav, because eshav means red"
+narrator:"what will be your name player?"
+player: tries to enter his own name but we force him to "input" the name jackob
+narrator:"What a wonderful and an original and totaly not forced name player!"
+issac:"look at him, he is holding his big brothers knee so his name shall be jackob"
+// fast foward a couple years
+Alternetive end1:
+narrator:"so player you have stolen from your brother your fathers blessing, had the most tripping dream"
+// optional second narrator pun *GONE WRONG*
+narrator:"Let's not forget that you have chosen to be the best farmer so.."
+narroter:"What will be your next choice? will it be: try to be a better men or trying to convert to another religion?"
+player: tries to choose an option but we bambozel him
+narrator:"Error 404: story line brench was not found: Have you tried to the game code and make it yourself?"
+
 
 Paths:
-    (Tut) Get to Jeriho
-    Look around in the city
-      City Center:
-
-      Market:
+    
 
 Stats:
     Money
