@@ -36,7 +36,8 @@ typedef struct TextWindow {
 typedef enum TalkSpeed {              
     slow = 100,                                 
     normal = 50,                                
-    fast = 30                                   
+    fast = 30,
+    instant = 0
 } TalkSpeed;
 
 #endif
